@@ -47,7 +47,8 @@ To train models, load in protein sequences in protein sequences, from FAASTA or 
 1. Nvidia GPU with 8 GB recommended VRAM (CUDA Enabled).
 2. 16 GB RAM.
 3. Transformer- Hugging Face library.
-4. Pytorch (Can be converted to use tensorflow, but this is not recommended).
+4. Weights & Biases Trainer.
+5. Pytorch (Can be converted to use tensorflow, but this is not recommended).
 
 Note: The final models were trained on Nvidia Tesla P100 GPU with 16 GB RAM, for a duration of 36 hours each (24 hours for pre-training, 12 hours for fine-tuning).
 ## License
