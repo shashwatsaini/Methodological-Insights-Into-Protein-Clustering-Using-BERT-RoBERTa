@@ -1,5 +1,5 @@
 # Methodological Insights Into Protein Clustering Using BERT & RoBERTa
-This repository contains all the code work on the paper by the same name, currently in the process of publishing.
+This repository contains all the code work on the paper by the same name, currently being published.
 ## Abstract
 Proteins are present in all living organisms, and
 understanding their processes is vital. Protein databases only
