@@ -44,7 +44,7 @@ The scripts are divided into training scripts for:
 
 To train models, load in protein sequences in protein sequences, from FAASTA or Uniprot, find the relevant Kaggle dataset here: [UniProt Proteins Reviewed (Swiss-Prot)](https://www.kaggle.com/datasets/andreylovyagin/uniprot-proteins-reviewed-swissprot)
 ## Requirements
-1. Nvidia GPU with 8 GB recommended VRAM (CUDA Enabled).
+1. Nvidia GPU with 16 GB recommended VRAM (CUDA Enabled).
 2. 16 GB RAM.
 3. Transformer- Hugging Face library.
 4. Weights & Biases Trainer.
